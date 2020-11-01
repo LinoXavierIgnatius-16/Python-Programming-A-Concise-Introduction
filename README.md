@@ -1,2 +1,2 @@
 # Python-Programming-A-Concise-Introduction
-Python Programming A Concise Introduction - Assignments
+Coursera - Python Programming A Concise Introduction - Assignments
